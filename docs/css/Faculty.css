@@ -1,0 +1,37 @@
+
+
+html { 
+
+    background-color: #f5f5f5;
+
+
+}
+
+h1 {  
+    text-align: center;
+} 
+
+img { 
+    margin-left: 100px; 
+    border-style: groove; 
+    border-radius: 15px;
+}
+
+.facdet , #facheading{ 
+    font-size: large;
+    line-break: auto;  
+    margin : 100px;
+    background-color: wheat;
+    font-weight: 200; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px; 
+    margin-top: 50px; 
+    text-align: left; 
+    margin-left: 50px; 
+    line-height: 27px; 
+    padding: 45px;
+    border-left-style: solid;
+} 
+i { 
+    color: blue;
+}
